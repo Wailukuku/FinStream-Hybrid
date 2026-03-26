@@ -1,0 +1,6 @@
+@FinStream_Hybrid_HostAddress = http://localhost:5296
+
+GET {{FinStream_Hybrid_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
